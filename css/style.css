@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(223, 213, 213);
+}
+h3{
+    color: black;
+  }  
+h4{
+    color: black;
+}
+button{
+      background-color: lightgreen;
+      color: black;
+      text-align: justify;
+      font-size: 50px;
+}
+
+#divlogo{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;  
+}
+.divButton{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;  
+}
+.divCadastro{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
