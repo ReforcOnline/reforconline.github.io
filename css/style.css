@@ -32,6 +32,6 @@ button{
 .divCadastro{
     width: 100vw;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: left;
 }
